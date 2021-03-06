@@ -1,6 +1,5 @@
 # note_keeper
-
-A notekeeper application
+Simple Note Keeper is a simple application which manages your notes. You can save, edit or delete notes 
 
 ## Getting Started
 
